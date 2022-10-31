@@ -1,0 +1,3 @@
+# bear-chat
+
+New Readme
