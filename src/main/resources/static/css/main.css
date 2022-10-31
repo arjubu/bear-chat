@@ -87,7 +87,7 @@ button {
 }
 
 button.default {
-    background-color: #e8e8e8;
+    background-color: #cfe2f3;
     color: #333;
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.12);
 }
@@ -105,12 +105,12 @@ button.accent {
 }
 
 #username-page {
-    background: white;
+    background: lightblue;
     text-align: center;
 }
 
 .username-page-container {
-    background: #fff;
+    background: #FFFFCC;
     box-shadow: 0 1px 11px rgba(0, 0, 0, 0.27);
     border-radius: 2px;
     width: 100%;
@@ -137,7 +137,7 @@ button.accent {
 #chat-page {
     position: relative;
     height: 100%;
-    background: white;
+    background: lightblue;
 }
 
 .chat-container {
@@ -148,7 +148,7 @@ button.accent {
     box-shadow: 0 1px 11px rgba(0, 0, 0, 0.27);
     margin-top: 30px;
     height: calc(100% - 60px);
-    max-height: 600px;
+    max-height: 700px;
     position: relative;
 }
 
@@ -163,7 +163,7 @@ button.accent {
 }
 
 #chat-page #messageForm {
-    padding: 20px;
+    padding: 10px;
 }
 
 #chat-page ul li {
