@@ -233,6 +233,8 @@ button.accent {
 }
 
 .chat-header {
+    background: lightyellow;
+    color: steelblue;
     text-align: center;
     padding: 15px;
     border-bottom: 1px solid #ececec;
