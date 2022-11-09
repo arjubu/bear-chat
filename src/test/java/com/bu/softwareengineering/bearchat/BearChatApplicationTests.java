@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-public class WebsocketDemoApplicationTests {
+public class BearChatApplicationTests {
 
 	@Test
 	public void contextLoads() {
