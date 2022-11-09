@@ -1,0 +1,9 @@
+version: '3'
+services:
+  activemq:
+    image: rmohr/activemq
+    container_name: activemq
+    volumes:
+      - "./activemq/activemq.xml:/conf/activemq.xml"
+    ports:
+      - "61616:61616"
