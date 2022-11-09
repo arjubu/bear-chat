@@ -1,4 +1,4 @@
-package com.example.websocketdemo;
+package com.bu.softwareengineering.bearchat;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

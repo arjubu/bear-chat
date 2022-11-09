@@ -1,6 +1,6 @@
-package com.example.websocketdemo.repository;
+package com.bu.softwareengineering.bearchat.repository;
 
-import com.example.websocketdemo.model.UserInfo;
+import com.bu.softwareengineering.bearchat.model.UserInfo;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;

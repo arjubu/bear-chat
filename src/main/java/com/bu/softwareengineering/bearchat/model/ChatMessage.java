@@ -1,4 +1,4 @@
-package com.example.websocketdemo.model;
+package com.bu.softwareengineering.bearchat.model;
 
 
 public class ChatMessage {
